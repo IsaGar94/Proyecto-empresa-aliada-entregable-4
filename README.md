@@ -177,7 +177,7 @@ Se crean cinco tablas para organizar la información de categorías, calendario,
 
 Con este proceso, la información queda almacenada en una base de datos que permite realizar consultas y facilita su utilización en las siguientes etapas del proyecto.
 
-## 9. Estructura del proyecto
+## 8. Estructura del proyecto
 
 ```text
 Proyecto-empresa-aliada-entregable-4/
